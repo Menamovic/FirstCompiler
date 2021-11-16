@@ -1,0 +1,12 @@
+int main() {
+//C语言词法分析器测试代码
+	cout << "Hello World!" <<              endl;
+	int a = 0;
+	int b = 1;
+	cout << a + b << endl;
+	return 0;
+}
+
+
+
+Stop Running
