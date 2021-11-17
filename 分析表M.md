@@ -49,7 +49,7 @@
 | term''  |        |      |      |       |      |      |      |      |      |      |      |      |      |      |      |
 | factor  |        |      |      |       |      |      |      |      |      |      |      |      |      |      |      |
 
-- 求First、Follow集
+- 求First集、Follow集
 
 $$
 \begin{aligned}
